@@ -1,7 +1,9 @@
 <resources>
-    <string name="app_name">Pertemuan_3_1918049</string>
+    <string name="app_name">Yu-Gi-Oh Companion App</string>
     <string name="navigation_drawer_open">Open Navigation Drawer</string>
     <string name="navigation_drawer_close">Close Navigation Drawer</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_ipsum">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero\'s De Finibus Bonorum et Malorum for use in a type specimen book</string>
+    <string name="lorem_ipsum_mini">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs</string>
 </resources>

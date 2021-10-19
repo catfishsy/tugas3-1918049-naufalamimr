@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Project KAMPOES/Android Project/Pertemuan_3_1918049/app/src/main/res/drawable/ic_settings_white_24dp.xml" value="0.2203125" />
         <entry key="..\:/Project KAMPOES/Android Project/Pertemuan_3_1918049/app/src/main/res/layout/activity_main.xml" value="0.16394927536231885" />
-        <entry key="..\:/Project KAMPOES/Android Project/Pertemuan_3_1918049/app/src/main/res/layout/fragment_chat.xml" value="0.16394927536231885" />
+        <entry key="..\:/Project KAMPOES/Android Project/Pertemuan_3_1918049/app/src/main/res/layout/fragment_chat.xml" value="0.25" />
         <entry key="..\:/Project KAMPOES/Android Project/Pertemuan_3_1918049/app/src/main/res/layout/fragment_message.xml" value="0.16394927536231885" />
-        <entry key="..\:/Project KAMPOES/Android Project/Pertemuan_3_1918049/app/src/main/res/layout/fragment_profile.xml" value="0.16394927536231885" />
+        <entry key="..\:/Project KAMPOES/Android Project/Pertemuan_3_1918049/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/Project KAMPOES/Android Project/Pertemuan_3_1918049/app/src/main/res/layout/layout_tempel.xml" value="0.15353260869565216" />
+        <entry key="..\:/Project KAMPOES/Android Project/Pertemuan_3_1918049/app/src/main/res/layout/layout_tempel_deck.xml" value="0.33" />
+        <entry key="..\:/Project KAMPOES/Android Project/Pertemuan_3_1918049/app/src/main/res/layout/layout_tempel_forum.xml" value="0.15353260869565216" />
         <entry key="..\:/Project KAMPOES/Android Project/Pertemuan_3_1918049/app/src/main/res/layout/nav_header.xml" value="0.33" />
         <entry key="..\:/Project KAMPOES/Android Project/Pertemuan_3_1918049/app/src/main/res/menu/draw_menu.xml" value="0.20416666666666666" />
       </map>
